@@ -49,7 +49,7 @@ Work with real driving datasets to visualize routes, identify detected objects, 
 
 
 ## Slides
-- Session 1
+- [Session 1](https://docs.google.com/presentation/d/e/2PACX-1vTbwGWFWfQpbWYuwRajPWhfJ6ZaXc-7TMK_MNhLf5Y_NqaN0c06AlGVi0Z8013MGfYCiMIr-52qHjOa/pub?start=false&loop=false&delayms=3000)
 - Session 2
 
 
