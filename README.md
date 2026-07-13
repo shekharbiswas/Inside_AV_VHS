@@ -1,4 +1,12 @@
-# Autonomous Vehicles with Python – Course Overview
+# Autonomous Vehicles with Python 
+
+## Slides
+- Session 1
+- Session 2
+
+
+
+
 
 ## Course Modules
 
