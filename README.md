@@ -50,7 +50,7 @@ Work with real driving datasets to visualize routes, identify detected objects, 
 
 ## Slides
 - [Session 1](https://docs.google.com/presentation/d/e/2PACX-1vTbwGWFWfQpbWYuwRajPWhfJ6ZaXc-7TMK_MNhLf5Y_NqaN0c06AlGVi0Z8013MGfYCiMIr-52qHjOa/pub?start=false&loop=false&delayms=3000)
-- Session 2
+- [Session 2](https://docs.google.com/presentation/d/e/2PACX-1vRzAQYoaqwIEU9LbFTz-iPOyWOztnAvnENRSW_QYq64V_bZFZqp3YEh8fb-laWR4fPfBRoNgJGo42U_/pub?start=false&loop=false&delayms=3000)
 
 
 [open dataset](https://console.cloud.google.com/storage/browser/waymo_open_dataset_motion_v_1_3_1/uncompressed/scenario/validation?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22)))
