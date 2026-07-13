@@ -1,13 +1,5 @@
 # Autonomous Vehicles with Python 
 
-## Slides
-- Session 1
-- Session 2
-
-
-
-
-
 ## Course Modules
 
 ### Module 1: Python Basics & Data for AVs
@@ -55,6 +47,10 @@ Work with real driving datasets to visualize routes, identify detected objects, 
 - Familiarity with Python is helpful but not mandatory.
 - Python **3.x** installed on your computer.
 
+
+## Slides
+- Session 1
+- Session 2
 
 
 [open dataset](https://console.cloud.google.com/storage/browser/waymo_open_dataset_motion_v_1_3_1/uncompressed/scenario/validation?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22)))
