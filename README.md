@@ -59,5 +59,7 @@ Work with real driving datasets to visualize routes, identify detected objects, 
 - [Session 6](https://docs.google.com/presentation/d/e/2PACX-1vSTKlduFcMVhckupTa9tIyTi-C3lhiUV94OKyvL6EJBdNdljJcLvGsKF9jrHB6F0KGawJnBmBqDhqOw/pub?start=false&loop=false&delayms=3000)
     - [paper](https://mediatum.ub.tum.de/doc/1379651/841530.pdf)
 
+- [Session 7](https://docs.google.com/presentation/d/e/2PACX-1vT8GA4mvt9H1yvT5k3NxM3N5RQCIKz-j3Dp2aNTh1KETYM7A6zoW2yIKuz-jfIYrsfkqaOHSv_7ZKM4/pub?start=false&loop=false&delayms=3000)
+
 
 
